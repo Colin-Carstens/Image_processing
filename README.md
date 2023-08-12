@@ -1,2 +1,2 @@
 # Image_processing
-Code for a digital image processing class
+Python code for a digital image processing class
